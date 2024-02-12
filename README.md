@@ -1,8 +1,8 @@
-
-This is a new [**R![Uploading Screenshot 2024-02-12 120202.png…]()
-eact Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<img width="186" alt="Screenshot 2024-02-12 120202" src="https://github.com/mezianysaid/Hotel-Template-React-Native/assets/79142324/6f3e03a5-3c86-4f91-8416-7b34c3382fad">
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
